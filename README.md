@@ -1,6 +1,6 @@
 # osbook
 
-This book is being written for CS students, especially for the introduction to operating systems course. 
+This book is being written for CS students, especially for those who has the operating systems course.  
 Feel free to contribute to it and make more readable and useful.  
 The main sources for this book are:
 - **Modern Operating Systems-Pearson** - Andrew S. Tanenbaum, Herbert Bos
